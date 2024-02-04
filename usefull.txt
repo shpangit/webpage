@@ -1,0 +1,2 @@
+https://github.com/pages-themes/minimal
+https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes
